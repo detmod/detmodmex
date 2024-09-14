@@ -141,6 +141,10 @@ tr.invited {
         max-height: 200px;
         width: 80%;
     }
+  .footer {
+        max-height: 120px;
+        width: 80%;
+    }
 }
 
 
