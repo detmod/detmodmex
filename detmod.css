@@ -137,10 +137,11 @@ tr.invited {
   .header, .column.left, .column.right, .column.middle{
     width: 100%;
   }
-  #logo {
-        max-height: 150px;
-        width: 100%;
-    }
+  .header img{
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+  }
 }
 
 
