@@ -137,10 +137,6 @@ tr.invited {
   .header, .column.left, .column.right, .column.middle{
     width: 100%;
   }
-  .header img{
-    width: 100%;
-    object-fit: cover;
-  }
 }
 
 
